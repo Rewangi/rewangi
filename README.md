@@ -3,7 +3,7 @@
   <br>👋 Hi, I'm Rewangi Taragi<br>
   <br> I'm a Frontend Web Developer ... <br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+    <img src="https://giphy.com/gifs/startupweekendsingapore-developer-entrepreneurs-swsg-4KzpjLvJjJknJ5Xuak "alt="Coder GIF" width="500" height="400">
  </abc>
 </h3> 
    
@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/OS-Windows-brightgreen) ![](https://img.shields.io/badge/Editor-VS%20Code-brightgreen)
 ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Code-C%2B%2B-brightgreen) ![](https://img.shields.io/badge/FrameWork-React%20-yellowgreen)
    
-- :telescope: I'm currently working on Web Development
+- :telescope: I'm currently working on React js
 - :hourglass_flowing_sand: Experimenting with Codes
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :mailbox: Reach out to me at my LinkedIn: 
