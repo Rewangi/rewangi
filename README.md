@@ -3,7 +3,7 @@
   <br>👋 Hi, I'm Rewangi Taragi<br>
   <br> I'm a Frontend Web Developer ... <br>
   <br>
-    <img src="https://giphy.com/gifs/startupweekendsingapore-developer-entrepreneurs-swsg-4KzpjLvJjJknJ5Xuak "alt="Coder GIF" width="500" height="400">
+    <img src="https://media.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif" alt="Coder GIF" width="500" height="400">
  </abc>
 </h3> 
    
